@@ -12,3 +12,4 @@ for val in range (20, 40,5):
 var = range(100)
 print(f"type = {type(var)}")
 print(var)
+
